@@ -1,0 +1,6 @@
+opencv-python
+tensorflow
+tensorflow_datasets
+pandas
+numpy
+streamlit
